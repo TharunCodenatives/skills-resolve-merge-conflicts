@@ -1,3 +1,2 @@
-Skills List of items
 Python
 FastAPI.
